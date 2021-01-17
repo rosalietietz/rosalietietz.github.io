@@ -1,5 +1,5 @@
 .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/DSC13721.png.png");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/RosalieTietz2.png");
   background-position: 50% 50%;
 }
 
@@ -155,7 +155,17 @@
 
 @media (max-width: 767px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 251px;
+    min-height: 1756px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-bottom: 0;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 887px;
   }
 
   .u-section-2 .u-container-layout-1 {
@@ -163,13 +173,22 @@
     padding-right: 10px;
   }
 
+  .u-section-2 .u-text-1 {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   .u-section-2 .u-layout-cell-2 {
-    min-height: 1059px;
+    min-height: 677px;
   }
 
   .u-section-2 .u-container-layout-2 {
     padding-left: 10px;
     padding-right: 10px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-top: 30px;
   }
 }
 
@@ -178,13 +197,22 @@
     min-height: 158px;
   }
 
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 1606px;
+  }
+
   .u-section-2 .u-text-1 {
-    margin-left: 13px;
-    margin-right: 17px;
+    width: auto;
+    margin-right: 85px;
+    margin-left: 117px;
   }
 
   .u-section-2 .u-layout-cell-2 {
-    min-height: 667px;
+    min-height: 502px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-top: 0;
   }
 }.u-section-3 .u-sheet-1 {
   min-height: 753px;
@@ -324,17 +352,26 @@
     padding-right: 10px;
   }
 
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 604px;
+  }
+
   .u-section-3 .u-video-1 {
-    margin-top: 54px;
-    margin-left: 120px;
+    width: 388px;
+    height: 269px;
+    margin-top: 43px;
+    margin-left: auto;
   }
 
   .u-section-3 .u-text-2 {
     margin-top: 43px;
+    margin-left: 53px;
+    margin-right: 53px;
   }
 
   .u-section-3 .u-social-icons-1 {
-    margin-top: 43px;
+    margin-top: -29px;
+    margin-right: auto;
   }
 }
 
@@ -352,18 +389,24 @@
     width: 320px;
   }
 
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 603px;
+  }
+
   .u-section-3 .u-text-1 {
     width: 75px;
     margin-top: 34px;
   }
 
   .u-section-3 .u-video-1 {
+    width: 340px;
     margin-top: 33px;
-    margin-left: auto;
   }
 
   .u-section-3 .u-text-2 {
     margin-top: 21px;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-3 .u-social-icons-1 {
@@ -734,7 +777,7 @@
 .u-section-6 .u-image-1 {
   min-height: 590px;
   pointer-events: auto;
-  background-image: url("images/DSC10231.png.png");
+  background-image: url("images/RosalieTietz3.png");
   background-position: 50% 50%;
 }
 
