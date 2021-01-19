@@ -4,10 +4,10 @@ require_once('FormProcessor.php');
 
 $form = array(
     'subject' => 'Neue Kontaktanfrage über rosalietietz.de',
-    'email_message' => 'You have a new form submission',
+    'email_message' => '',
     'success_redirect' => '',
     'email' => array(
-    'from' => 'no-reply@rosalietietz.de',
+    'from' => '',
     'to' => 'rosaliejasmintietz@hotmail.com'
     ),
     'fields' => array(
