@@ -31214,13 +31214,30 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-top: -32px;
   }
 }
+@media (max-width: 991px) {
+  .u-header .u-sheet-1 {
+    min-height: 105px;
+  }
 
+  .u-header .u-menu-1 {
+    margin-top: -46px;
+    margin-bottom: 37px;
+  }
+}
 @media (max-width: 767px) {
   .u-header .u-image-1 {
     width: auto;
   }
-}
 
+  .u-header .u-menu-1 {
+    margin-right: -2px;
+  }
+}
+@media (max-width: 575px) {
+  .u-header .u-menu-1 {
+    margin-right: 5px;
+  }
+}
 .u-footer {
   background-image: none;
 }

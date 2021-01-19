@@ -875,19 +875,19 @@
     min-height: 351px;
   }
 }.u-section-7 .u-sheet-1 {
-  min-height: 442px;
+  min-height: 502px;
 }
 
 .u-section-7 .u-text-1 {
-  font-weight: 700;
   width: 550px;
-  margin: 51px auto 0;
+  font-weight: 700;
+  background-image: none;
+  margin: 60px auto 0;
 }
 
 .u-section-7 .u-form-1 {
-  height: 313px;
   width: 570px;
-  margin: 39px auto 0;
+  margin: 30px auto 60px;
 }
 
 @media (max-width: 767px) {
