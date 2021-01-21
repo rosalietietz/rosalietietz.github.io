@@ -905,7 +905,7 @@
     min-height: 351px;
   }
 }.u-section-7 .u-sheet-1 {
-  min-height: 502px;
+  min-height: 559px;
 }
 
 .u-section-7 .u-text-1 {
@@ -916,12 +916,17 @@
 }
 
 .u-section-7 .u-form-1 {
+  height: 370px;
   width: 570px;
   margin: 30px auto 60px;
 }
 
 .u-section-7 .u-form-group-1 {
   margin-left: 0;
+}
+
+.u-section-7 .u-btn-1 {
+  border-style: none;
 }
 
 @media (max-width: 767px) {
