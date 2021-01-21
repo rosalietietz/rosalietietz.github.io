@@ -120,7 +120,6 @@
   object-position: 47.81% 50%;
   width: 392px;
   height: 641px;
-  margin: 0 auto;
 }
 
 @media (max-width: 1199px) {
@@ -151,6 +150,7 @@
   .u-section-2 .u-image-1 {
     width: 347px;
     height: 567px;
+    margin: 0 auto;
   }
 }
 
@@ -918,6 +918,10 @@
 .u-section-7 .u-form-1 {
   width: 570px;
   margin: 30px auto 60px;
+}
+
+.u-section-7 .u-form-group-1 {
+  margin-left: 0;
 }
 
 @media (max-width: 767px) {
