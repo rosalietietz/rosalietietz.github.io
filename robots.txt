@@ -1,4 +1,3 @@
 # robots.txt zu http://www.rosalietietz.de/
 
  'Allow: *'
-google-site-verification=f-_i6A6VSqcp1L0gB_ML665fiqTT3kWJphcAuV9L3is
