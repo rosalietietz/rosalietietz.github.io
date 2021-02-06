@@ -406,16 +406,22 @@
 
 @media (max-width: 575px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 640px;
+    min-height: 1141px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    margin-bottom: 0;
   }
 
   .u-section-3 .u-layout-cell-1 {
-    min-height: 363px;
+    min-height: 478px;
   }
 
   .u-section-3 .u-image-1 {
     height: 418px;
-    width: 320px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-3 .u-layout-cell-2 {
@@ -927,11 +933,16 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 539px;
+  }
+
   .u-section-7 .u-text-1 {
     width: 340px;
   }
 
   .u-section-7 .u-form-1 {
     width: 340px;
+    margin-bottom: 53px;
   }
-}google-site-verification=f-_i6A6VSqcp1L0gB_ML665fiqTT3kWJphcAuV9L3is
+}
