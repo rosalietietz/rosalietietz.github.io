@@ -644,7 +644,7 @@
 }
 
 .u-section-5 .u-text-1 {
-  margin: 60px 508px 0;
+  margin: 60px 484px 0 508px;
 }
 
 .u-section-5 .u-text-2 {
@@ -758,7 +758,7 @@
 @media (max-width: 1199px) {
   .u-section-5 .u-text-1 {
     margin-left: 408px;
-    margin-right: 408px;
+    margin-right: 384px;
   }
 
   .u-section-5 .u-list-1 {
@@ -789,7 +789,7 @@
 
   .u-section-5 .u-text-1 {
     margin-left: 298px;
-    margin-right: 298px;
+    margin-right: 274px;
   }
 
   .u-section-5 .u-list-1 {
@@ -806,7 +806,7 @@
 @media (max-width: 767px) {
   .u-section-5 .u-text-1 {
     margin-left: 208px;
-    margin-right: 208px;
+    margin-right: 184px;
   }
 
   .u-section-5 .u-container-layout-1 {
@@ -828,7 +828,7 @@
 @media (max-width: 575px) {
   .u-section-5 .u-text-1 {
     margin-left: 108px;
-    margin-right: 108px;
+    margin-right: 84px;
   }
 
   .u-section-5 .u-repeater-1 {
