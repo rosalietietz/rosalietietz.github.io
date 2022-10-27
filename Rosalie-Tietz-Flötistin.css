@@ -413,7 +413,7 @@
   font-size: 0.875rem;
   letter-spacing: 1px;
   background-image: none;
-  border-style: none none solid;
+  border-style: solid;
   text-transform: uppercase;
   font-weight: 600;
   margin: 22px 0 0 auto;
